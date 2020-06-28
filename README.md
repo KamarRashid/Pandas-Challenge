@@ -1,4 +1,5 @@
 # Pandas-Challenge
+<<<<<<< HEAD
 
 ## Option 1: Heroes of Pymoli
 
@@ -83,3 +84,5 @@ As final considerations:
 * You must submit a link to your Jupyter Notebook with the viewable Data Frames.
 * You must include a written description of three observable trends based on the data.
 * See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+=======
+>>>>>>> ab2e156cd205e902a90e7147d11e02988b82735e
